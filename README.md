@@ -1,6 +1,7 @@
 # Sonic_Aware
 This project involves measuring the sound pressure level in dB and sending a telegram notification informing users of the sound exposure level.
-Scope of improvement: For sound level more than 96 dB, it indicates 96dB itself. Better calibration of sound sensor can be one way which little chnages in the given conditions.
+
+Scope of improvement: For sound levels more than the maximum value, it indicates 96dB itself. Better calibration of sound sensors can be one way.
 
 ![nodemcu_soundsensor](https://github.com/Iksha-Rani/Sonic_Aware/assets/77661014/dc04eaa6-fba5-41e6-9b5c-7711c20ee003)
 
